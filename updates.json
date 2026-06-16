@@ -1,0 +1,15 @@
+[{
+    "id": "u2",
+    "version": "1.0.0-beta",
+    "date_fr": "15 juin 2026",
+    "date_en": "June 15, 2026",
+    "title_fr": "Version Beta",
+    "title_en": "Beta Version ",
+    "importance": 4,
+    "desc_fr": "Version beta qui va bientôt sortir.",
+    "desc_en": "Beta version releasing soon.",
+    "added_fr": [],
+    "added_en": [],
+    "removed_fr": [],
+    "removed_en": []
+}]

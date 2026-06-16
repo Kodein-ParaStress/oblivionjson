@@ -1,0 +1,262 @@
+{
+    "free": [{
+            "id": "f1",
+            "icon": "fa-solid fa-circle-info",
+            "title_fr": "Informations système",
+            "title_en": "System Info",
+            "desc_fr": "Collecte des données de base sur le système d'exploitation et le matériel de la machine.",
+            "desc_en": "Gathers basic operating system and hardware information from the machine."
+        },
+        {
+            "id": "f2",
+            "icon": "fa-solid fa-desktop",
+            "title_fr": "Écran en direct",
+            "title_en": "Live Screen",
+            "desc_fr": "Visualisation en temps réel de l'affichage de l'écran distant.",
+            "desc_en": "Real-time viewing of the remote screen display."
+        },
+        {
+            "id": "f3",
+            "icon": "fa-solid fa-camera",
+            "title_fr": "Caméra en direct",
+            "title_en": "Live Camera",
+            "desc_fr": "Accès au flux de la caméra ou de la webcam connectée en direct.",
+            "desc_en": "Access to the connected camera or webcam stream in real-time."
+        },
+        {
+            "id": "f4",
+            "icon": "fa-solid fa-face-laugh-wink",
+            "title_fr": "Options Troll",
+            "title_en": "Troll Options",
+            "desc_fr": "Fonctionnalités de test comportemental comprenant des alertes visuelles et des pop-ups.",
+            "desc_en": "Behavioral testing features including visual alerts and pop-ups."
+        },
+        {
+            "id": "f5",
+            "icon": "fa-solid fa-folder-open",
+            "title_fr": "Gestionnaire de fichiers",
+            "title_en": "File Manager",
+            "desc_fr": "Exploration, transfert et manipulation des fichiers sur la machine.",
+            "desc_en": "File exploration, transfer, and management on the machine."
+        },
+        {
+            "id": "f6",
+            "icon": "fa-solid fa-terminal",
+            "title_fr": "Reverse Shell",
+            "title_en": "Reverse Shell",
+            "desc_fr": "Émulation de terminal pour l'exécution de commandes en temps réel.",
+            "desc_en": "Terminal emulation for executing commands in real-time."
+        }
+    ],
+    "medium": [{
+            "id": "m1",
+            "icon": "fa-solid fa-circle-info",
+            "title_fr": "Informations système",
+            "title_en": "System Info",
+            "desc_fr": "Collecte des données de base sur le système d'exploitation et le matériel de la machine.",
+            "desc_en": "Gathers basic operating system and hardware information from the machine."
+        },
+        {
+            "id": "m2",
+            "icon": "fa-solid fa-desktop",
+            "title_fr": "Écran en direct",
+            "title_en": "Live Screen",
+            "desc_fr": "Visualisation en temps réel de l'affichage de l'écran distant.",
+            "desc_en": "Real-time viewing of the remote screen display."
+        },
+        {
+            "id": "m3",
+            "icon": "fa-solid fa-camera",
+            "title_fr": "Caméra en direct",
+            "title_en": "Live Camera",
+            "desc_fr": "Accès au flux de la caméra ou de la webcam connectée en direct.",
+            "desc_en": "Access to the connected camera or webcam stream in real-time."
+        },
+        {
+            "id": "m4",
+            "icon": "fa-solid fa-face-laugh-wink",
+            "title_fr": "Options Troll",
+            "title_en": "Troll Options",
+            "desc_fr": "Fonctionnalités de test comportemental comprenant des alertes visuelles et des pop-ups.",
+            "desc_en": "Behavioral testing features including visual alerts and pop-ups."
+        },
+        {
+            "id": "m5",
+            "icon": "fa-solid fa-folder-open",
+            "title_fr": "Gestionnaire de fichiers",
+            "title_en": "File Manager",
+            "desc_fr": "Exploration, transfert et manipulation des fichiers sur la machine.",
+            "desc_en": "File exploration, transfer, and management on the machine."
+        },
+        {
+            "id": "m6",
+            "icon": "fa-solid fa-terminal",
+            "title_fr": "Reverse Shell",
+            "title_en": "Reverse Shell",
+            "desc_fr": "Émulation de terminal pour l'exécution de commandes en temps réel.",
+            "desc_en": "Terminal emulation for executing commands in real-time."
+        },
+        {
+            "id": "m7",
+            "icon": "fa-solid fa-desktop",
+            "title_fr": "Full VNC + HVNC",
+            "title_en": "Full VNC + HVNC",
+            "desc_fr": "Contrôle total via un bureau virtuel masqué sans interruption pour l'utilisateur.",
+            "desc_en": "Total control via a hidden virtual desktop with no disruption to the user."
+        },
+        {
+            "id": "m8",
+            "icon": "fa-solid fa-list-check",
+            "title_fr": "Gestion des processus",
+            "title_en": "Process Management",
+            "desc_fr": "Visualisation et gestion des tâches actives avec suivi du PID, de l'utilisateur et du CPU.",
+            "desc_en": "View and manage active tasks with PID, User, and CPU tracking."
+        },
+        {
+            "id": "m9",
+            "icon": "fa-solid fa-comments",
+            "title_fr": "Chat en direct",
+            "title_en": "Live Chat",
+            "desc_fr": "Interface de discussion bidirectionnelle via une fenêtre non refermable côté client.",
+            "desc_en": "Two-way communication interface through a window that cannot be closed by the client."
+        },
+        {
+            "id": "m10",
+            "icon": "fa-solid fa-keyboard",
+            "title_fr": "Keylogger en direct",
+            "title_en": "Live Keylogger",
+            "desc_fr": "Capture en temps réel des frappes clavier, identifiants et mots de passe sans latence.",
+            "desc_en": "Real-time capture of keystrokes, credentials, and passwords with zero lag."
+        },
+        {
+            "id": "m11",
+            "icon": "fa-solid fa-bug",
+            "title_fr": "Module Worm",
+            "title_en": "Worm Module",
+            "desc_fr": "Analyse du réseau local pour détecter les machines adjacentes et s'y connecter via SSH.",
+            "desc_en": "Scans the local network to detect adjacent machines and connect via SSH."
+        }
+    ],
+    "pro": [{
+            "id": "p1",
+            "icon": "fa-solid fa-circle-info",
+            "title_fr": "Informations système",
+            "title_en": "System Info",
+            "desc_fr": "Collecte des données de base sur le système d'exploitation et le matériel de la machine.",
+            "desc_en": "Gathers basic operating system and hardware information from the machine."
+        },
+        {
+            "id": "p2",
+            "icon": "fa-solid fa-desktop",
+            "title_fr": "Écran en direct",
+            "title_en": "Live Screen",
+            "desc_fr": "Visualisation en temps réel de l'affichage de l'écran distant.",
+            "desc_en": "Real-time viewing of the remote screen display."
+        },
+        {
+            "id": "p3",
+            "icon": "fa-solid fa-camera",
+            "title_fr": "Caméra en direct",
+            "title_en": "Live Camera",
+            "desc_fr": "Accès au flux de la caméra ou de la webcam connectée en direct.",
+            "desc_en": "Access to the connected camera or webcam stream in real-time."
+        },
+        {
+            "id": "p4",
+            "icon": "fa-solid fa-face-laugh-wink",
+            "title_fr": "Options Troll",
+            "title_en": "Troll Options",
+            "desc_fr": "Fonctionnalités de test comportemental comprenant des alertes visuelles et des pop-ups.",
+            "desc_en": "Behavioral testing features including visual alerts and pop-ups."
+        },
+        {
+            "id": "p5",
+            "icon": "fa-solid fa-folder-open",
+            "title_fr": "Gestionnaire de fichiers",
+            "title_en": "File Manager",
+            "desc_fr": "Exploration, transfert et manipulation des fichiers sur la machine.",
+            "desc_en": "File exploration, transfer, and management on the machine."
+        },
+        {
+            "id": "p6",
+            "icon": "fa-solid fa-terminal",
+            "title_fr": "Reverse Shell",
+            "title_en": "Reverse Shell",
+            "desc_fr": "Émulation de terminal pour l'exécution de commandes en temps réel.",
+            "desc_en": "Terminal emulation for executing commands in real-time."
+        },
+        {
+            "id": "p7",
+            "icon": "fa-solid fa-desktop",
+            "title_fr": "Full VNC + HVNC",
+            "title_en": "Full VNC + HVNC",
+            "desc_fr": "Contrôle total via un bureau virtuel masqué sans interruption pour l'utilisateur.",
+            "desc_en": "Total control via a hidden virtual desktop with no disruption to the user."
+        },
+        {
+            "id": "p8",
+            "icon": "fa-solid fa-list-check",
+            "title_fr": "Gestion des processus",
+            "title_en": "Process Management",
+            "desc_fr": "Visualisation et gestion des tâches actives avec suivi du PID, de l'utilisateur et du CPU.",
+            "desc_en": "View and manage active tasks with PID, User, and CPU tracking."
+        },
+        {
+            "id": "p9",
+            "icon": "fa-solid fa-comments",
+            "title_fr": "Chat en direct",
+            "title_en": "Live Chat",
+            "desc_fr": "Interface de discussion bidirectionnelle via une fenêtre non refermable côté client.",
+            "desc_en": "Two-way communication interface through a window that cannot be closed by the client."
+        },
+        {
+            "id": "p10",
+            "icon": "fa-solid fa-keyboard",
+            "title_fr": "Keylogger en direct",
+            "title_en": "Live Keylogger",
+            "desc_fr": "Capture en temps réel des frappes clavier, identifiants et mots de passe sans latence.",
+            "desc_en": "Real-time capture of keystrokes, credentials, and passwords with zero lag."
+        },
+        {
+            "id": "p11",
+            "icon": "fa-solid fa-bug",
+            "title_fr": "Module Worm",
+            "title_en": "Worm Module",
+            "desc_fr": "Analyse du réseau local pour détecter les machines adjacentes et s'y connecter via SSH.",
+            "desc_en": "Scans the local network to detect adjacent machines and connect via SSH."
+        },
+
+        {
+            "id": "p13",
+            "icon": "fa-solid fa-vault",
+            "title_fr": "Crypto Cracking",
+            "title_en": "Crypto Cracking",
+            "desc_fr": "Interface dédiée à l'analyse et au traitement local des fichiers de portefeuilles crypto.",
+            "desc_en": "Dedicated interface for local analysis and processing of crypto wallet files."
+        },
+        {
+            "id": "p14",
+            "icon": "fa-solid fa-file-shield",
+            "title_fr": "Module Ransomware",
+            "title_en": "Ransomware Module",
+            "desc_fr": "Module avancé de chiffrement de fichiers avec personnalisation et aperçu en temps réel.",
+            "desc_en": "Advanced file encryption ransomware with customization and real-time preview."
+        },
+        {
+            "id": "p15",
+            "icon": "fa-solid fa-volume-high",
+            "title_fr": "Gestion Audio Avancée",
+            "title_en": "Advanced Audio Control",
+            "desc_fr": "Écoute et enregistrement du flux audio ambiant avec injection de sons personnalisés.",
+            "desc_en": "Live ambient audio listening and recording with custom sound injection."
+        },
+        {
+            "id": "p16",
+            "icon": "fa-solid fa-trash-can",
+            "title_fr": "Auto-Removal",
+            "title_en": "Auto-Removal",
+            "desc_fr": "Désinstallation complète et instantanée sur commande sans laisser de traces sur le système.",
+            "desc_en": "Instant and complete uninstallation on command leaving zero traces on the system."
+        }
+    ]
+}
