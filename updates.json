@@ -1,7 +1,7 @@
 [
     {
         "id": "u1",
-        "version": "1.0.0-alpha",
+        "version": "1.0",
         "date_fr": "15 juin 2026",
         "date_en": "June 15, 2026",
         "title_fr": "Version Alpha",
@@ -16,7 +16,7 @@
     },
     {
         "id": "u2",
-        "version": "1.0.0-beta",
+        "version": "1.1",
         "date_fr": "22 juin 2026",
         "date_en": "June 22, 2026",
         "title_fr": "Version Beta",
